@@ -1,2 +1,6 @@
-# java88
-java 8 description
+# java and typescript 
+this is a playwright and java tuition
+
+java description
+
+please look for the main web
